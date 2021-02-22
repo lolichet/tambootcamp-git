@@ -1,6 +1,6 @@
 # First change my lolichet
-# add a second comment
 # Comment inserted locally
+# Change made on GitHub Web
 # add a fourth comment
 # file:  hello-world.go
 # description:  my very first go program
